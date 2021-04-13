@@ -10,13 +10,12 @@ Utilizando alguns conceitos básicos do React.js, componentes e organização de
 # clone APP
 Interface [https://www.tesla.com/](https://www.tesla.com/)
 
-<!-- ## APP images
-![Screenshot_1](/img/netflix_clone_react_img0.png "Screenshot_1")
-![Screenshot_2](/img/netflix_clone_react_img1.png "Screenshot_2")
-![Screenshot_3](/img/netflix_clone_react_img2.png "Screenshot_3")
+## APP images
+![Screenshot_1](/img/tesla_clone_react_img0.png "Screenshot_1")
+![Screenshot_2](/img/tesla_clone_react_img1.png "Screenshot_2")
 ## Responsive app
-![Screenshot_4](/img/netflix_clone_react_img_responsive0.png "Screenshot_4")
-![Screenshot_5](/img/netflix_clone_react_img_responsive1.png "Screenshot_5") -->
+![Screenshot_3](/img/tesla_clone_react_img_resp0.png "Screenshot_3")
+![Screenshot_4](/img/tesla_clone_react_img_resp1.png "Screenshot_4")
 
 # Getting Started with Create React App
 
