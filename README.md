@@ -1,13 +1,21 @@
-# autor
-Feito com muito por [https://diogomiranda.dev.br/](https://diogomiranda.dev.br/)\
+<h1 align="center">
+  Bem Vindo ao App Tesla - UI Clone
+</h1>
+
+## 🚀 Sobre o Projeto
+
+Neste projeto busquei praticar um pouco mais sobre o React.js e Api.\
+Utilizando alguns conceitos básicos do React.js, componentes e organização de pastas dentro de um projeto Web Moderno.\
+Além de praticar os conceitos de comunicações com uma API.\
+
+## 🎨 Layout
+
 Feito em Live [https://www.youtube.com/watch?v=Mf4Se4ZGcG8&t=1565s](https://www.youtube.com/watch?v=Mf4Se4ZGcG8&t=1565s) para estudo de react,\
 Todos os direitos das imagens são da Tesla.
 
-# tesla_clone_react
-Neste projeto busquei praticar um pouco mais sobre o React.js, Styled Components e TypeScript.\
-Utilizando alguns conceitos básicos do React.js, componentes e organização de pastas dentro de um projeto Web Moderno.
 
 # clone APP
+
 Interface [https://www.tesla.com/](https://www.tesla.com/)
 
 ## APP images
@@ -17,26 +25,58 @@ Interface [https://www.tesla.com/](https://www.tesla.com/)
 ![Screenshot_3](/img/tesla_clone_react_img_resp0.png "Screenshot_3")
 ![Screenshot_4](/img/tesla_clone_react_img_resp1.png "Screenshot_4")
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🔨 Tecnologias:
 
-## Available Scripts
+- **[React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)**
+- **[React Testing Library](https://testing-library.com/docs/react-testing-library/intro)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Styled Components](https://styled-components.com/)**
+- **[framer-motion](https://www.framer.com/motion/)**
+- **[Eslint](https://eslint.org/)**
+- **[Prettier](https://prettier.io/)**
 
-In the project directory, you can run:
+## 🔎 Comandos
 
-### `npm run start`
+- `dev`: Executa a aplicação em `localhost:3000`
+- `build`: Cria a Build do projeto
+- `start`: Inicia um servidor simples com o código de produção
+<!-- - `lint`: Executa o **Linter** em todos os componentes e páginas
+- `test`: Executa **Jest** para testar todos os componentes e páginas
+- `test:watch`: Executa **Jest** em watch mode
+- `storybook`: Executa **Storybook** em `localhost:6006`
+- `build-storybook`: Cria uma build do storybook
+- `generate`: Cria automaticamente um componente -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🚀 Como rodar este projeto
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com) e [NodeJs](https://nodejs.org/en/) Instalado em seu computador.
 
-### `npm run build`
+### 🌀 Clonando o repositório
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clone este repositório
+$ git clone https://github.com/DiogoMiranda-dev/tesla_clone_react
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Acesse a pasta do projeto no terminal/cmd
+$ cd tesla_clone_react
+```
+
+### 🎲 Rodando a Aplicação
+
+```bash
+# Instale as dependências
+$ npm install
+
+# Execute a Aplicação em Desenvolvimento
+$ npm dev
+
+# O servidor iniciará na porta:3000 - acesse http://localhost:3000
+
+```
+
+## 📝 Licença
+
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
+
+Feito com ❤️ por Diogo Miranda 👋🏽 [https://diogomiranda.dev.br/](https://diogomiranda.dev.br/)
