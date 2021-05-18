@@ -32,10 +32,11 @@ Além de praticar os conceitos de comunicações com uma API.\
 ## :computer: Demo
 [https://tesla-clone-react-dwkfbqjoh-diogomiranda-dev.vercel.app](https://tesla-clone-react-dwkfbqjoh-diogomiranda-dev.vercel.app)
 
+<!--
 # 🚀  API
 
 dados de [https://unsplash.com/](unsplash.com)
-
+-->
 # 🌀 clone APP
 
 Interface [https://www.tesla.com/](https://www.tesla.com/)
